@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+	font-family:Times New Roman;
+	background-color: #c7e9fb;
+	
+}
+header{
+	text-align: center;
+	
+}
+p::first-line{
+	color: red;
+}
+
+h1::first-letter{
+	color:black;
+	font-size: 250%
+}
+header{
+	color: blue;
+}
